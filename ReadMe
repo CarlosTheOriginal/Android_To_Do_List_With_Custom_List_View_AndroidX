@@ -1,0 +1,17 @@
+# Android_To_Do_List_With_Custom_List_View
+
+This is a simple app that illustrates the use of:
+
+- Custom List Views
+- Data moving between Array Lists
+- Alert Dialogs for Input
+- Bottom Navigation 
+- Floating Action Button
+
+Three array list are used to sort task into three groups: "To Do", "Doing" and "Done".
+
+The bottom navigation menu changes the the array which is being presented.
+
+The floating action button triggers an alert dialog with an edit text that allows users to add a new task.
+
+Note: The project uses AndroidX
